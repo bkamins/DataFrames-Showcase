@@ -1,4 +1,4 @@
-# DataFrames.jl Showcase
+# DataFrames.jl showcase
 
 This repository contains a short showcase of DataFrames.jl. It was tested using Julia 1.5.3 and DataFrames.jl 0.22.
 
